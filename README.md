@@ -1,6 +1,6 @@
 # DuckpinV003
-Data analysis of duckpin data on Azure
-Introduction
+
+###_Introduction_
 In Phase I of Duckpins1, I described the hardware, software and initial results of a project to illuminate the Lucite numbers on the headboards for Congressional Country Club’s duckpin bowling alleys. Phase II, Duckpins2, was an update to the project and focused on tools for analysis, improvement to the streaming framerate, and alternative configurations for detecting the ball count and setter and reset actions.  This Phase III document is an analysis of over 8,000 rolls at all 10 pins.  Data were captured in season Oct-Mar for 2018-19 and 2019-Jan 20, 2020. 
 Background
 As described in the previous documents, I use a Raspberry Pi to capture video of any ball that knocks down one or more pins.  Gutter balls are ignored, and this analysis only looks at rolls that start with 10 pins.  For these cases, it can be assumed that bowlers are trying to hit the pocket on either side of the head (#1) pin.  Video is post-processed nightly, to determine the location, speed and angle of the roll.
