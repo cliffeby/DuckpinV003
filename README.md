@@ -29,16 +29,16 @@ o	The ending pin configuration determined the number of pins remaining.  There a
 
 ### _Data Analysis_ 
 Analyses are grouped into five categories for all rolls and rolls above average speed.  The later is an attempt to eliminate the effect that bumpers may have on the data:
--	Distribution of all rolls by:
++	Distribution of all rolls by:
 +	Velocity and X-location
 +	X- location
 +	Pins up
 +	V1
--	Ball location and expected result
--	Effect of speed
--	Effect of approach angle/spin
--	Ball location, deviation and speed for typical ending pin configurations.
-#### Roll Distribution_ #
+ -	Ball location and expected result
+ -	Effect of speed
+ -	Effect of approach angle/spin
+ -	Ball location, deviation and speed for typical ending pin configurations.
+#### _Roll Distribution_ #
 Figure 1 and 2 show that rolls with above average speed (shown by the dashed line) have a slightly better center concentration.  This is likely due to better bowlers tend to throw the ball faster.  Also, noted is the slower average v2 speed.  This is like due to faster rolls often do not capture three xy pairs and v2 was unknown.
 Figure 3 and 4 are histograms of ball counts by location.  The left-side bias is notable and likely due to the left sloping lane. The predominance of right-handed bowlers could be a factor as well. Figure 3 shows all rolls in blue; Figure 4 is rolls at above average speed.  
  
