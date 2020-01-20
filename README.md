@@ -1,15 +1,16 @@
-# DuckpinV003
 
-###_Introduction_
-In Phase I of Duckpins1, I described the hardware, software and initial results of a project to illuminate the Lucite numbers on the headboards for Congressional Country Club’s duckpin bowling alleys. Phase II, Duckpins2, was an update to the project and focused on tools for analysis, improvement to the streaming framerate, and alternative configurations for detecting the ball count and setter and reset actions.  This Phase III document is an analysis of over 8,000 rolls at all 10 pins.  Data were captured in season Oct-Mar for 2018-19 and 2019-Jan 20, 2020. 
-Background
+### _Introduction_
+In [Duckpin Phase I](https://cliffeby.github.io/DuckpinV001/), I described the hardware, software and initial results of a project to illuminate the Lucite numbers on the headboards for Congressional Country Club’s duckpin bowling alleys. [Duckpin Phase II](https://cliffeby.github.io/DuckpinV002/) was an update to the project and focused on tools for analysis, improvement to the streaming framerate, and alternative configurations for detecting the ball count and setter and reset actions.  This Phase III document is an analysis of over 8,000 rolls at all 10 pins.  Data were captured in season Oct-Mar for 2018-19 and 2019-Jan 20, 2020. 
+
+### _Background_
 As described in the previous documents, I use a Raspberry Pi to capture video of any ball that knocks down one or more pins.  Gutter balls are ignored, and this analysis only looks at rolls that start with 10 pins.  For these cases, it can be assumed that bowlers are trying to hit the pocket on either side of the head (#1) pin.  Video is post-processed nightly, to determine the location, speed and angle of the roll.
 The limitations of the data are significant.  Some obvious data concerns are:
 -	Bowlers are left-handed, right-handed, and two-handed.  The data does not identify.
 -	Some bowlers use bumpers and these rolls are not identified.
 -	The video quality of a Raspberry Pi depends on resolution.  I used a 1440 x 912-pixel video.  Framerate varied based on Raspberry Pi processor activity.  On average, three images of the ball are captured as it moves to the pins and the moving ball is granular.  Graphics software computes the centroid of the ball which is not always precise.
 -	Lane 4 at Congressional CC slopes left.  This is observed in the data and by rolling a ball slowly down the lane.
-Summary
+
+### _Summary_
 Machine learning, AI, and cyber metrics may work in Moneyball, but duckpin bowling has never been about money.  With over 8000 observations, it appears there are no secrets in the data.  
 Data show that ball location is the predominate variable and any method that allows a repeatable roll will achieve results. Forget about the benefits of speed or spin. Focus on a comfortable motion that is consistent.
 Captured Data 
@@ -26,7 +27,7 @@ o	 Calculation of xy pair differences established an estimate of the ball angle 
 -	Up
 o	The ending pin configuration determined the number of pins remaining.  There are 10^2 = 1024 combinations of pins, many of which are impossible to create. 
 
-Data Analysis 
+### _Data Analysis_ 
 Analyses are grouped into five categories for all rolls and rolls above average speed.  The later is an attempt to eliminate the effect that bumpers may have on the data:
 -	Distribution of all rolls by:
 o	Velocity and X-location
@@ -37,7 +38,7 @@ o	V1
 -	Effect of speed
 -	Effect of approach angle/spin
 -	Ball location, deviation and speed for typical ending pin configurations.
-Roll Distribution
+#### Roll Distribution_
 Figure 1 and 2 show that rolls with above average speed (shown by the dashed line) have a slightly better center concentration.  This is likely due to better bowlers tend to throw the ball faster.  Also, noted is the slower average v2 speed.  This is like due to faster rolls often do not capture three xy pairs and v2 was unknown.
 Figure 3 and 4 are histograms of ball counts by location.  The left-side bias is notable and likely due to the left sloping lane. The predominance of right-handed bowlers could be a factor as well. Figure 3 shows all rolls in blue; Figure 4 is rolls at above average speed.  
  
