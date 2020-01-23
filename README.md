@@ -62,7 +62,7 @@ Figure 3 and 4 are histograms of ball counts by location.  The left-side bias is
 ##### Figure No. 4 #
 ![XFastScatter](https://user-images.githubusercontent.com/1431998/72768000-f72ffc00-3bc3-11ea-8f95-c9e9881e3550.png) 
 
-Figure 5 is the distribution of results for all rolls.  It is the number of pins that remain up after the first roll.  Since gutter ball are not recognized, the maximum number of up pins is nine.  Note that seven pins up is the most frequent roll (mode) and that it is just as hard to knock down only four pins as it is to get all ten. 
+Figure 5 is the distribution of results for all rolls.  It is the number of pins that remain up after the first roll.  Since gutter ball are not recognized, the maximum number of up pins is nine.  Note that nine pins up is the most frequent roll (mode) and that ten down is the most difficult, but that the relation between 0 and nine is not linear. 
 ##### Figure No. 5 #
 ![PisUpHist](https://user-images.githubusercontent.com/1431998/72767987-f5fecf00-3bc3-11ea-9ca1-02b5338e9ff4.png)
 
