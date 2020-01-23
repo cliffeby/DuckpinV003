@@ -19,7 +19,9 @@ Machine learning, AI, and cyber metrics may work in Moneyball, but duckpin bowli
 Data show that ball location is the predominate variable and any method that allows a repeatable roll will achieve results. Forget about the benefits of speed or spin. Focus on a comfortable motion that is consistent.
 Captured Data 
 Phase I explains how nightly postprocessing of video data is analyzed and stored in an Azure table. The json data contain xy pairs of the ball locations that produce the endingPinCount. The format of those records is:
+~~~ Python
 {'PartitionKey': 'Lane 4', 'RowKey': '20180927643118', 'beginingPinCount': 1023, 'endingPinCount': 0, 'x0': '634', 'y0': '829', 'x1': '637', 'y1': '702', >'x2': '641', 'y2': '596', 'x3': '642', 'y3': '510', 'x4': '576', 'y4': '306'}
+~~~
 
 The number of xy pairs depends on the speed of the roll.  These data are shaped and establish the following data elements:
 -	Location of the ball -x
@@ -143,8 +145,8 @@ The distribution of ball angles is shown in Figure 31.  It likely reflects the p
 
 #### Ball location, deviation and speed for typical ending pin configurations #
 The remaining figures are not analyzed but show the most common pin configurations in two Appendices.
-Each Figure contains the ball location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in that order. 
-Appendix 1 contains the most common outcomes and Appendix two shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.  Note that often ball speed is slow.
+Each Figure contains the ball track and location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in rank order. 
+Appendix 1 contains the most common outcomes and Appendix 2 shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.  Note that often ball speed is slow.
 
 ### _Appendix 1 - Most Common Outcomes for 10 Pins_ #
 ![Figure_1](https://user-images.githubusercontent.com/1431998/73009876-49993480-3ddf-11ea-8ff2-029437100fce.png)
