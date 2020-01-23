@@ -41,9 +41,13 @@ Analyses are grouped into five categories for all rolls and rolls above average 
  -	Ball location, deviation and speed for typical ending pin configurations.
 #### _Roll Distribution_ #
 Figure 1 and 2 show that rolls with above average speed (shown by the dashed line) have a slightly better center concentration.  This is likely due to better bowlers tend to throw the ball faster.  Also, noted is the slower average v2 speed.  This is like due to faster rolls often do not capture three xy pairs and v2 was unknown.
+
 <img src = "https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png" width = "430px" align = "center">
+
 Figure 3 and 4 are histograms of ball counts by location.  The left-side bias is notable and likely due to the left sloping lane. The predominance of right-handed bowlers could be a factor as well. Figure 3 shows all rolls in blue; Figure 4 is rolls at above average speed.  
- ![img1]("https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png")
+
+ ![X1]("https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png")
+ 
 Figure 5 is the distribution of results for all rolls.  It is the number of pins that remain up after the first roll.  Since gutter ball are not recognized, the maximum number of up pins is nine.  Note that seven pins up is the most frequent roll (mode) and that it is just as hard to knock down only four pins as it is to get all ten. 
 
 Figure 6 shows the relationship between v1 and v2.  The data show an unlikely slowdown of rolls at velocities of 75 xps.  This is likely due to the distance from the camera to the ball on faster rolls. 
