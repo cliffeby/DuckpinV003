@@ -117,9 +117,6 @@ Can a duckpin roll be too fast?  While the higher speed departs more energy to t
 Figures 27 and 28 show the effect of speed on the number of pins remaining. The average speed and standard deviation bars are plotted for each ending state.  For all balls, Figure 27 shows that speed may have some benefit for strikes through four pins up.  When above average speed is the control variable, The already small effect is minimized.  A difference in speed of 161 to 148 - nine percent or about one percent per pin.
 ##### Figure No. 27 #
 ![speed](https://user-images.githubusercontent.com/1431998/72767988-f5fecf00-3bc3-11ea-8dbb-09dbb61cd66c.png)
-![Speed1](https://user-images.githubusercontent.com/1431998/72767989-f6976580-3bc3-11ea-976b-315097a6445a.png)
-
-![StrikeSpeed](https://user-images.githubusercontent.com/1431998/72767991-f6976580-3bc3-11ea-8ac6-7b065b12289b.png)
 
 ##### Figure No. 28 #
 ![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
