@@ -122,18 +122,27 @@ Figures 27 and 28 show the effect of speed on the number of pins remaining. The 
 ![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
 
 A second approach is shown in Figure 29.  It shows the speed and location of all rolls that are strikes.  It appears that there is a benefit to faster speed but that some well off-center slow balls have a better strike chance. 
-##### Figure No. 29 # ![StrikeSpeed1](https://user-images.githubusercontent.com/1431998/73009866-49009e00-3ddf-11ea-9123-18295047e02d.png)
+##### Figure No. 29 # 
+![StrikeSpeed1](https://user-images.githubusercontent.com/1431998/73009866-49009e00-3ddf-11ea-9123-18295047e02d.png)
 
 ##### Effect of approach angle/spin #
 Hook bowling is the technique used by almost every professional 10-pin bowler. Using the hook allows you much more control over where the ball strikes the pins and where the pins are hit to as a result. In 10-pins the ball is big enough to contact the #1-#3 or #1-#2 pins simultaneously if hooked.  In duckpins, simultaneous contact is impossible.  It is also believed that the angle offers a better chance of direct contact with the #5 pin.  Finally, the spin is believed to impart rotational energy on the pins.  Some even believe that a backwards spinning ball on a well-oiled lane is best. 
+##### Figure No. 29 # 
 <img src= "https://user-images.githubusercontent.com/1431998/72758770-baeba400-3ba1-11ea-8d79-388a09c3b466.png" width = "430px" align = "center">
-By comparing xy pairs, I was able to detect the angle of attack.  The Raspberry Pi camera is not capable of the hi-res recording needed to determine spin.  Left- vs right-handed throws are not distinguished so the best measure of angle is the absolute value of the calculated angle.
-Figure 30 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
 
+By comparing xy pairs, I was able to detect the angle of attack.  The Raspberry Pi camera is not capable of the hi-res recording needed to determine spin.  Also, left- vs right-handed throws are not distinguished so the best measure of angle is the absolute value of the calculated angle.
+Figure 30 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
+##### Figure No. 30 # 
+
+![Angle](https://user-images.githubusercontent.com/1431998/72768005-f72ffc00-3bc3-11ea-9d6a-dc84eb548fb3.png)
+![AngleFast](https://user-images.githubusercontent.com/1431998/72768006-f72ffc00-3bc3-11ea-9d2b-a7608bbe7884.png)
+![AngleFastAbs](https://user-images.githubusercontent.com/1431998/72768007-f72ffc00-3bc3-11ea-9bc5-e7d857860d71.png)
+![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
  
 The distribution of ball angles is shown in Figure 31.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
- 
-Ball location, deviation and speed for typical ending pin configurations.
+##### Figure No. 31 # 
+
+##### Ball location, deviation and speed for typical ending pin configurations #
 
 The remaining Figures are not analyzed but show the most common pin configurations.
 Each Figure contains the ball location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in that order. 
@@ -142,7 +151,7 @@ Each Figure contains the ball location where its size is a standard deviation, a
 ![PinUpHistforBallatX10](https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png)
 
 
-![ThetaScatter](https://user-images.githubusercontent.com/1431998/72767992-f6976580-3bc3-11ea-9380-f34b1ffd9026.png)
+
 ![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
 
 
@@ -150,10 +159,8 @@ Each Figure contains the ball location where its size is a standard deviation, a
 ![xHistGT117](https://user-images.githubusercontent.com/1431998/72768001-f72ffc00-3bc3-11ea-96d4-2e0bd2d01297.png)
 
 ![AllBalls](https://user-images.githubusercontent.com/1431998/72768004-f72ffc00-3bc3-11ea-99e7-40565692e45e.png)
-![Angle](https://user-images.githubusercontent.com/1431998/72768005-f72ffc00-3bc3-11ea-9d6a-dc84eb548fb3.png)
-![AngleFast](https://user-images.githubusercontent.com/1431998/72768006-f72ffc00-3bc3-11ea-9d2b-a7608bbe7884.png)
-![AngleFastAbs](https://user-images.githubusercontent.com/1431998/72768007-f72ffc00-3bc3-11ea-9bc5-e7d857860d71.png)
-![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
+
+
 ![Figure_1](https://user-images.githubusercontent.com/1431998/72768009-f7c89280-3bc3-11ea-9171-983251d70293.png)
 ![Figure_1a](https://user-images.githubusercontent.com/1431998/72768010-f7c89280-3bc3-11ea-8641-2d9a54cfd141.png)
 ![Figure_1b](https://user-images.githubusercontent.com/1431998/72768011-f7c89280-3bc3-11ea-828a-c5e5c1e84d84.png)
