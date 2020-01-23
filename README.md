@@ -1,6 +1,6 @@
 
 ### _Introduction_
-In [Duckpin Phase I](https://cliffeby.github.io/DuckpinV001/), I described the hardware, software and initial results of a project to illuminate the Lucite numbers on the headboards for Congressional Country Club’s duckpin bowling alleys. [Duckpin Phase II](https://cliffeby.github.io/DuckpinV002/) was an update to the project and focused on tools for analysis, improvement to the streaming framerate, and alternative configurations for detecting the ball count and setter and reset actions.  This Phase III document is an analysis of over 8,000 rolls at all 10 pins.  Data were captured in season Oct-Mar for 2018-19 and 2019-Jan 20, 2020. 
+In [Duckpin Phase I](https://cliffeby.github.io/DuckpinV001/), I described the hardware, software and initial results of a project to illuminate the Lucite numbers on the headboards for Congressional Country Club’s duckpin bowling alleys. [Duckpin Phase II](https://cliffeby.github.io/DuckpinV002/) was an update to the project and focused on tools for analysis, improvement to the streaming framerate, and alternative configurations for detecting the ball count and setter and reset actions.  This Phase III document is an analysis of over 10,000 rolls at all 10 pins.  Data were captured in season Oct-Mar for 2018-19 and 2019-Jan 22, 2020. 
 
 ### _Warning_
 ![image](https://user-images.githubusercontent.com/1431998/73011582-83b80580-3de2-11ea-88a4-85a16b238d87.png)
@@ -46,6 +46,10 @@ Analyses are grouped into five categories for all rolls and rolls above average 
 Figure 1 and 2 show that rolls with above average speed (shown by the dashed line) have a slightly better center concentration.  This is likely due to better bowlers tend to throw the ball faster.  Also, noted is the slower average v2 speed.  This is like due to faster rolls often do not capture three xy pairs and v2 was unknown.
 
 <img src = "https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png" width = "430px" align = "center">
+![V1vXScatter](https://user-images.githubusercontent.com/1431998/72767995-f6976580-3bc3-11ea-9813-5a7b9931cf79.png)
+![V1xXScatter](https://user-images.githubusercontent.com/1431998/72767996-f6976580-3bc3-11ea-8463-cd13b051ddc4.png)
+![V2vXScatter](https://user-images.githubusercontent.com/1431998/72767997-f6976580-3bc3-11ea-9441-b326ed9fe004.png)
+![V2xXScatter](https://user-images.githubusercontent.com/1431998/72767998-f72ffc00-3bc3-11ea-923a-8d9bc159ae96.png)
 
 Figure 3 and 4 are histograms of ball counts by location.  The left-side bias is notable and likely due to the left sloping lane. The predominance of right-handed bowlers could be a factor as well. Figure 3 shows all rolls in blue; Figure 4 is rolls at above average speed.  
 
@@ -109,10 +113,7 @@ Each Figure contains the ball location where its size is a standard deviation, a
 ![ThetaScatter](https://user-images.githubusercontent.com/1431998/72767992-f6976580-3bc3-11ea-9380-f34b1ffd9026.png)
 ![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
 ![V1vsV2Scatter](https://user-images.githubusercontent.com/1431998/72767994-f6976580-3bc3-11ea-8b78-9cd7114289bb.png)
-![V1vXScatter](https://user-images.githubusercontent.com/1431998/72767995-f6976580-3bc3-11ea-9813-5a7b9931cf79.png)
-![V1xXScatter](https://user-images.githubusercontent.com/1431998/72767996-f6976580-3bc3-11ea-8463-cd13b051ddc4.png)
-![V2vXScatter](https://user-images.githubusercontent.com/1431998/72767997-f6976580-3bc3-11ea-9441-b326ed9fe004.png)
-![V2xXScatter](https://user-images.githubusercontent.com/1431998/72767998-f72ffc00-3bc3-11ea-923a-8d9bc159ae96.png)
+
 ![XFastScatter](https://user-images.githubusercontent.com/1431998/72768000-f72ffc00-3bc3-11ea-8f95-c9e9881e3550.png)
 ![xHistGT117](https://user-images.githubusercontent.com/1431998/72768001-f72ffc00-3bc3-11ea-96d4-2e0bd2d01297.png)
 ![XScatter](https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png)
