@@ -45,7 +45,7 @@ Analyses are grouped into five categories for all rolls and rolls above average 
 #### _Roll Distribution_ #
 Figure 1 and 2 show that rolls with above average speed (shown by the dashed line) have a slightly better center concentration.  This is likely due to better bowlers tend to throw the ball faster.  Also, noted is the slower average v2 speed.  This is like due to faster rolls often do not capture three xy pairs and v2 was unknown.
 
-<img src = "https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png" width = "430px" align = "center">
+
 ![V1vXScatter](https://user-images.githubusercontent.com/1431998/72767995-f6976580-3bc3-11ea-9813-5a7b9931cf79.png)
 ![V1xXScatter](https://user-images.githubusercontent.com/1431998/72767996-f6976580-3bc3-11ea-8463-cd13b051ddc4.png)
 ![V2vXScatter](https://user-images.githubusercontent.com/1431998/72767997-f6976580-3bc3-11ea-9441-b326ed9fe004.png)
