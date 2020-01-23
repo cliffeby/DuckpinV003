@@ -127,62 +127,71 @@ A second approach is shown in Figure 29.  It shows the speed and location of all
 
 ##### Effect of approach angle/spin #
 Hook bowling is the technique used by almost every professional 10-pin bowler. Using the hook allows you much more control over where the ball strikes the pins and where the pins are hit to as a result. In 10-pins the ball is big enough to contact the #1-#3 or #1-#2 pins simultaneously if hooked.  In duckpins, simultaneous contact is impossible.  It is also believed that the angle offers a better chance of direct contact with the #5 pin.  Finally, the spin is believed to impart rotational energy on the pins.  Some even believe that a backwards spinning ball on a well-oiled lane is best. 
+
 ##### Figure No. 29 # 
 <img src= "https://user-images.githubusercontent.com/1431998/72758770-baeba400-3ba1-11ea-8d79-388a09c3b466.png" width = "430px" align = "center">
 
 By comparing xy pairs, I was able to detect the angle of attack.  The Raspberry Pi camera is not capable of the hi-res recording needed to determine spin.  Also, left- vs right-handed throws are not distinguished so the best measure of angle is the absolute value of the calculated angle.
 Figure 30 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
-##### Figure No. 30 # 
 
-![Angle](https://user-images.githubusercontent.com/1431998/72768005-f72ffc00-3bc3-11ea-9d6a-dc84eb548fb3.png)
-![AngleFast](https://user-images.githubusercontent.com/1431998/72768006-f72ffc00-3bc3-11ea-9d2b-a7608bbe7884.png)
+##### Figure No. 30 # 
 ![AngleFastAbs](https://user-images.githubusercontent.com/1431998/72768007-f72ffc00-3bc3-11ea-9bc5-e7d857860d71.png)
-![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
+
  
 The distribution of ball angles is shown in Figure 31.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
 ##### Figure No. 31 # 
+![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
 
 ##### Ball location, deviation and speed for typical ending pin configurations #
-
-The remaining Figures are not analyzed but show the most common pin configurations.
+The remaining figures are not analyzed but show the most common pin configurations in two Appendices.
 Each Figure contains the ball location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in that order. 
+Appendix 1 contains the most common outcomes and Appendix two shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.
+
+### Appendix 1 - Most Common Outcomes for 10 Pins_ #
+
+![Figure_1](https://user-images.githubusercontent.com/1431998/72768009-f7c89280-3bc3-11ea-9171-983251d70293.png)
+
+![Figure_2](https://user-images.githubusercontent.com/1431998/72768012-f7c89280-3bc3-11ea-8e3c-8e93470493c3.png)
+
+![Figure_3](https://user-images.githubusercontent.com/1431998/72768014-f7c89280-3bc3-11ea-8bf6-dadeac078ef3.png)
+
+![Figure_4](https://user-images.githubusercontent.com/1431998/72768016-f7c89280-3bc3-11ea-8170-bd28ca8aa221.png)
+
+![Figure_5](https://user-images.githubusercontent.com/1431998/72768018-f8612900-3bc3-11ea-8aa8-6273756485c1.png)
+
+![Figure_6](https://user-images.githubusercontent.com/1431998/72768020-f8612900-3bc3-11ea-82f0-12c7d36255c1.png)
+
+![Figure_7](https://user-images.githubusercontent.com/1431998/72768023-f8612900-3bc3-11ea-9c39-a4d2fab2870c.png)
+
+![Figure_8](https://user-images.githubusercontent.com/1431998/72768025-f8612900-3bc3-11ea-8c3f-c6287a80d955.png)
+
+![Figure_9](https://user-images.githubusercontent.com/1431998/72768027-f8612900-3bc3-11ea-86f9-199f40dcce55.png)
+
+![Figure_10](https://user-images.githubusercontent.com/1431998/72768029-f8612900-3bc3-11ea-818e-d576d84300d1.png)
 
 
-![PinUpHistforBallatX10](https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png)
-
-
-
+### Appendix 21 - Bad BEats for 10 Pins_ #
+![Figure_1a](https://user-images.githubusercontent.com/1431998/72768010-f7c89280-3bc3-11ea-8641-2d9a54cfd141.png)
+![Figure_1b](https://user-images.githubusercontent.com/1431998/72768011-f7c89280-3bc3-11ea-828a-c5e5c1e84d84.png)
+![Figure_2a](https://user-images.githubusercontent.com/1431998/72768013-f7c89280-3bc3-11ea-86de-53e98f4a7263.png)
+![Figure_3a](https://user-images.githubusercontent.com/1431998/72768015-f7c89280-3bc3-11ea-9463-fc90b611f88e.png)
+![Figure_4a](https://user-images.githubusercontent.com/1431998/72768017-f7c89280-3bc3-11ea-8300-4fa656d5075b.png)
+![Figure_5a](https://user-images.githubusercontent.com/1431998/72768019-f8612900-3bc3-11ea-88d6-f6cc290cb57b.png)
+![Figure_6a](https://user-images.githubusercontent.com/1431998/72768022-f8612900-3bc3-11ea-8e7d-3ae76809483f.png)
+![Figure_7a](https://user-images.githubusercontent.com/1431998/72768024-f8612900-3bc3-11ea-9ae2-b3d92b8e7ba9.png)
+![Figure_8a](https://user-images.githubusercontent.com/1431998/72768026-f8612900-3bc3-11ea-9de7-afdcb5286da1.png)
+![Figure_9a](https://user-images.githubusercontent.com/1431998/72768028-f8612900-3bc3-11ea-8158-7acf8f4f653a.png)
+![Figure_10a](https://user-images.githubusercontent.com/1431998/72768030-f8f9bf80-3bc3-11ea-9828-b13abb399b5c.png)
 ![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
 
-
-
+![PinUpHistforBallatX10](https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png)
+![PerfectStrike](https://user-images.githubusercontent.com/1431998/72768031-f8f9bf80-3bc3-11ea-9c28-b5cf907b08fd.png)
 ![xHistGT117](https://user-images.githubusercontent.com/1431998/72768001-f72ffc00-3bc3-11ea-96d4-2e0bd2d01297.png)
 
 ![AllBalls](https://user-images.githubusercontent.com/1431998/72768004-f72ffc00-3bc3-11ea-99e7-40565692e45e.png)
 
 
-![Figure_1](https://user-images.githubusercontent.com/1431998/72768009-f7c89280-3bc3-11ea-9171-983251d70293.png)
-![Figure_1a](https://user-images.githubusercontent.com/1431998/72768010-f7c89280-3bc3-11ea-8641-2d9a54cfd141.png)
-![Figure_1b](https://user-images.githubusercontent.com/1431998/72768011-f7c89280-3bc3-11ea-828a-c5e5c1e84d84.png)
-![Figure_2](https://user-images.githubusercontent.com/1431998/72768012-f7c89280-3bc3-11ea-8e3c-8e93470493c3.png)
-![Figure_2a](https://user-images.githubusercontent.com/1431998/72768013-f7c89280-3bc3-11ea-86de-53e98f4a7263.png)
-![Figure_3](https://user-images.githubusercontent.com/1431998/72768014-f7c89280-3bc3-11ea-8bf6-dadeac078ef3.png)
-![Figure_3a](https://user-images.githubusercontent.com/1431998/72768015-f7c89280-3bc3-11ea-9463-fc90b611f88e.png)
-![Figure_4](https://user-images.githubusercontent.com/1431998/72768016-f7c89280-3bc3-11ea-8170-bd28ca8aa221.png)
-![Figure_4a](https://user-images.githubusercontent.com/1431998/72768017-f7c89280-3bc3-11ea-8300-4fa656d5075b.png)
-![Figure_5](https://user-images.githubusercontent.com/1431998/72768018-f8612900-3bc3-11ea-8aa8-6273756485c1.png)
-![Figure_5a](https://user-images.githubusercontent.com/1431998/72768019-f8612900-3bc3-11ea-88d6-f6cc290cb57b.png)
-![Figure_6](https://user-images.githubusercontent.com/1431998/72768020-f8612900-3bc3-11ea-82f0-12c7d36255c1.png)
-![Figure_6a](https://user-images.githubusercontent.com/1431998/72768022-f8612900-3bc3-11ea-8e7d-3ae76809483f.png)
-![Figure_7](https://user-images.githubusercontent.com/1431998/72768023-f8612900-3bc3-11ea-9c39-a4d2fab2870c.png)
-![Figure_7a](https://user-images.githubusercontent.com/1431998/72768024-f8612900-3bc3-11ea-9ae2-b3d92b8e7ba9.png)
-![Figure_8](https://user-images.githubusercontent.com/1431998/72768025-f8612900-3bc3-11ea-8c3f-c6287a80d955.png)
-![Figure_8a](https://user-images.githubusercontent.com/1431998/72768026-f8612900-3bc3-11ea-9de7-afdcb5286da1.png)
-![Figure_9](https://user-images.githubusercontent.com/1431998/72768027-f8612900-3bc3-11ea-86f9-199f40dcce55.png)
-![Figure_9a](https://user-images.githubusercontent.com/1431998/72768028-f8612900-3bc3-11ea-8158-7acf8f4f653a.png)
-![Figure_10](https://user-images.githubusercontent.com/1431998/72768029-f8612900-3bc3-11ea-818e-d576d84300d1.png)
-![Figure_10a](https://user-images.githubusercontent.com/1431998/72768030-f8f9bf80-3bc3-11ea-9828-b13abb399b5c.png)
-![PerfectStrike](https://user-images.githubusercontent.com/1431998/72768031-f8f9bf80-3bc3-11ea-9c28-b5cf907b08fd.png)
+
 ![PinFigure_1](https://user-images.githubusercontent.com/1431998/72768032-f8f9bf80-3bc3-11ea-9e05-4aa4ae093f10.png)
 ![PinFigure_2](https://user-images.githubusercontent.com/1431998/72768033-f8f9bf80-3bc3-11ea-9bc8-4cda3252ccc1.png)
 ![PinFigure_3](https://user-images.githubusercontent.com/1431998/72768034-f8f9bf80-3bc3-11ea-9770-dd06c6012434.png)
