@@ -79,23 +79,39 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767969-f4cda200-3bc3-11ea-87d9-a7a4f865689c.png" width = "410px" align="right">
 
-![PinUpatXHist3]()
-![PinUpatXHist4]()
-![PinUpatXHist5](https://user-images.githubusercontent.com/1431998/72767970-f4cda200-3bc3-11ea-83d1-fb282ab69cff.png)
-![PinUpatXHist6](https://user-images.githubusercontent.com/1431998/72767972-f5663880-3bc3-11ea-9d0e-d115739fe6eb.png)
-![PinUpatXHist7](https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png)
-![PinUpatXHist8](https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png)
-![PinUpatXHist9](https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png)
-![PinUpatXHist10](https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png)
-![PinUpatXHist11](https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png)
-![PinUpatXHist12](https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png)
-![PinUpatXHist13](https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png)
-![PinUpatXHist14](https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png)
-![PinUpatXHist15](https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png)
-![PinUpatXHist16](https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png)
-![PinUpatXHist17](https://user-images.githubusercontent.com/1431998/72767983-f5fecf00-3bc3-11ea-8e38-7e9cf16febb9.png)
-![PinUpatXHist18](https://user-images.githubusercontent.com/1431998/72767984-f5fecf00-3bc3-11ea-8458-8cb4efb0fad5.png)
-![PinUpatXHist19](https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png)  
+<img src = "https://user-images.githubusercontent.com/1431998/72767970-f4cda200-3bc3-11ea-83d1-fb282ab69cff.png" width = "410px" align="left">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767972-f5663880-3bc3-11ea-9d0e-d115739fe6eb.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png" width = "410px" align="left">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767984-f5fecf00-3bc3-11ea-8458-8cb4efb0fad5.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "410px" align="right">
+
+<img src = "" width = "410px" align="right">
+
+
 
 #### _Effect of speed_ #
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
