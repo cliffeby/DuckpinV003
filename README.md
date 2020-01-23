@@ -148,40 +148,47 @@ Each Figure contains the ball location where its size is a standard deviation, a
 Appendix 1 contains the most common outcomes and Appendix two shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.
 
 ### Appendix 1 - Most Common Outcomes for 10 Pins_ #
+![Figure_1](https://user-images.githubusercontent.com/1431998/73009876-49993480-3ddf-11ea-8ff2-029437100fce.png)
 
-![Figure_1](https://user-images.githubusercontent.com/1431998/72768009-f7c89280-3bc3-11ea-9171-983251d70293.png)
+![Figure_2](https://user-images.githubusercontent.com/1431998/73009879-49993480-3ddf-11ea-9a55-814a299258c6.png)
 
-![Figure_2](https://user-images.githubusercontent.com/1431998/72768012-f7c89280-3bc3-11ea-8e3c-8e93470493c3.png)
+![Figure_3](https://user-images.githubusercontent.com/1431998/73009881-4a31cb00-3ddf-11ea-97c5-f0facbdf5a1f.png)
 
-![Figure_3](https://user-images.githubusercontent.com/1431998/72768014-f7c89280-3bc3-11ea-8bf6-dadeac078ef3.png)
+![Figure_4](https://user-images.githubusercontent.com/1431998/73009884-4a31cb00-3ddf-11ea-850a-d236d3fbf368.png)
 
-![Figure_4](https://user-images.githubusercontent.com/1431998/72768016-f7c89280-3bc3-11ea-8170-bd28ca8aa221.png)
+![Figure_5](https://user-images.githubusercontent.com/1431998/73009886-4a31cb00-3ddf-11ea-9922-7799c0f86bc1.png)
 
-![Figure_5](https://user-images.githubusercontent.com/1431998/72768018-f8612900-3bc3-11ea-8aa8-6273756485c1.png)
+![Figure_6](https://user-images.githubusercontent.com/1431998/73009888-4a31cb00-3ddf-11ea-964d-6175cf492655.png)
 
-![Figure_6](https://user-images.githubusercontent.com/1431998/72768020-f8612900-3bc3-11ea-82f0-12c7d36255c1.png)
+![Figure_7](https://user-images.githubusercontent.com/1431998/73009890-4a31cb00-3ddf-11ea-9aff-0eed963c490a.png)
 
-![Figure_7](https://user-images.githubusercontent.com/1431998/72768023-f8612900-3bc3-11ea-9c39-a4d2fab2870c.png)
+![Figure_8](https://user-images.githubusercontent.com/1431998/73009893-4a31cb00-3ddf-11ea-9ae3-0e651729df15.png)
 
-![Figure_8](https://user-images.githubusercontent.com/1431998/72768025-f8612900-3bc3-11ea-8c3f-c6287a80d955.png)
+![Figure_9](https://user-images.githubusercontent.com/1431998/73009895-4aca6180-3ddf-11ea-91ec-240389f0bf17.png)
 
-![Figure_9](https://user-images.githubusercontent.com/1431998/72768027-f8612900-3bc3-11ea-86f9-199f40dcce55.png)
+![Figure_10](https://user-images.githubusercontent.com/1431998/73009836-47cf7100-3ddf-11ea-934a-a7b62482d273.png)
 
-![Figure_10](https://user-images.githubusercontent.com/1431998/72768029-f8612900-3bc3-11ea-818e-d576d84300d1.png)
+![Figure_11](https://user-images.githubusercontent.com/1431998/73009838-47cf7100-3ddf-11ea-8215-f8e1bea3ee78.png)
 
 
-### Appendix 21 - Bad BEats for 10 Pins_ #
-![Figure_1a](https://user-images.githubusercontent.com/1431998/72768010-f7c89280-3bc3-11ea-8641-2d9a54cfd141.png)
-![Figure_1b](https://user-images.githubusercontent.com/1431998/72768011-f7c89280-3bc3-11ea-828a-c5e5c1e84d84.png)
-![Figure_2a](https://user-images.githubusercontent.com/1431998/72768013-f7c89280-3bc3-11ea-86de-53e98f4a7263.png)
-![Figure_3a](https://user-images.githubusercontent.com/1431998/72768015-f7c89280-3bc3-11ea-9463-fc90b611f88e.png)
-![Figure_4a](https://user-images.githubusercontent.com/1431998/72768017-f7c89280-3bc3-11ea-8300-4fa656d5075b.png)
-![Figure_5a](https://user-images.githubusercontent.com/1431998/72768019-f8612900-3bc3-11ea-88d6-f6cc290cb57b.png)
-![Figure_6a](https://user-images.githubusercontent.com/1431998/72768022-f8612900-3bc3-11ea-8e7d-3ae76809483f.png)
-![Figure_7a](https://user-images.githubusercontent.com/1431998/72768024-f8612900-3bc3-11ea-9ae2-b3d92b8e7ba9.png)
-![Figure_8a](https://user-images.githubusercontent.com/1431998/72768026-f8612900-3bc3-11ea-9de7-afdcb5286da1.png)
-![Figure_9a](https://user-images.githubusercontent.com/1431998/72768028-f8612900-3bc3-11ea-8158-7acf8f4f653a.png)
-![Figure_10a](https://user-images.githubusercontent.com/1431998/72768030-f8f9bf80-3bc3-11ea-9828-b13abb399b5c.png)
+
+### Appendix 21 - Bad Beats for 10 Pins_ #
+![Figure_1B](https://user-images.githubusercontent.com/1431998/73009878-49993480-3ddf-11ea-8526-5246b917aa00.png)
+![Figure_2B](https://user-images.githubusercontent.com/1431998/73009880-4a31cb00-3ddf-11ea-85eb-35c43cc84cf3.png)
+![Figure_3B](https://user-images.githubusercontent.com/1431998/73009882-4a31cb00-3ddf-11ea-959c-4f62da2ba899.png)
+![Figure_4B](https://user-images.githubusercontent.com/1431998/73009885-4a31cb00-3ddf-11ea-8756-02d2c1238c53.png)
+![Figure_5B](https://user-images.githubusercontent.com/1431998/73009887-4a31cb00-3ddf-11ea-875b-7db40952fdf7.png)
+![Figure_6B](https://user-images.githubusercontent.com/1431998/73009889-4a31cb00-3ddf-11ea-80e5-8ffc5b0ec257.png)
+![Figure_7B](https://user-images.githubusercontent.com/1431998/73009892-4a31cb00-3ddf-11ea-9aae-5c676b8e8af2.png)
+![Figure_8B](https://user-images.githubusercontent.com/1431998/73009894-4a31cb00-3ddf-11ea-8f34-fd80f41a0f41.png)
+![Figure_9B](https://user-images.githubusercontent.com/1431998/73009835-47cf7100-3ddf-11ea-92fb-9406a45b1a12.png)
+![Figure_10B](https://user-images.githubusercontent.com/1431998/73009837-47cf7100-3ddf-11ea-85be-d8d7ec0c6033.png)
+![Figure_11B](https://user-images.githubusercontent.com/1431998/73009839-47cf7100-3ddf-11ea-8787-b9ba0532a1ce.png)
+
+
+
+test
+
 ![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
 
 ![PinUpHistforBallatX10](https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png)
@@ -192,16 +199,4 @@ Appendix 1 contains the most common outcomes and Appendix two shows some least c
 
 
 
-![PinFigure_1](https://user-images.githubusercontent.com/1431998/72768032-f8f9bf80-3bc3-11ea-9e05-4aa4ae093f10.png)
-![PinFigure_2](https://user-images.githubusercontent.com/1431998/72768033-f8f9bf80-3bc3-11ea-9bc8-4cda3252ccc1.png)
-![PinFigure_3](https://user-images.githubusercontent.com/1431998/72768034-f8f9bf80-3bc3-11ea-9770-dd06c6012434.png)
-![PinFigure_4](https://user-images.githubusercontent.com/1431998/72768035-f8f9bf80-3bc3-11ea-96d3-7752c06a4a27.png)
-![PinFigure_5](https://user-images.githubusercontent.com/1431998/72768036-f8f9bf80-3bc3-11ea-8262-d00dc6af9e09.png)
-![PinFigure_6](https://user-images.githubusercontent.com/1431998/72768037-f9925600-3bc3-11ea-826b-380cc6c7fea7.png)
-![PinFigure_7](https://user-images.githubusercontent.com/1431998/72768038-f9925600-3bc3-11ea-8153-facb58cf0a6a.png)
-![PinFigure_8](https://user-images.githubusercontent.com/1431998/72768039-f9925600-3bc3-11ea-9716-fdfb7f09c20a.png)
-![PinFigure_9](https://user-images.githubusercontent.com/1431998/72768040-f9925600-3bc3-11ea-8e71-75e6865caea0.png)
-![PinFigure_9a](https://user-images.githubusercontent.com/1431998/72768041-f9925600-3bc3-11ea-9d63-489b0ca8dbbd.png)
-![PinFigure_10](https://user-images.githubusercontent.com/1431998/72768042-f9925600-3bc3-11ea-978a-a8cf68dd7d58.png)
-![PinsUPHist](https://user-images.githubusercontent.com/1431998/72768043-f9925600-3bc3-11ea-8463-cd2621c97560.png)
-![PinUpatXHist0](https://user-images.githubusercontent.com/1431998/72768044-f9925600-3bc3-11ea-91c6-55b22f29917a.png)
+
