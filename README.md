@@ -71,8 +71,8 @@ Figure 6 shows the relationship between v1 and v2.  The data show an unlikely sl
 #### _Ball location and expected result_ #
 Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball that appears to be perfectly located in the pocket leaves two or three pins and sometimes difficult splits.  Also, it’s not unexpected to see a “backdoor” strike where the ball misses the headpin, but pin action delivers a strike.  The following 20 graphs (Figures 7-26) show the distribution of up pins after a roll at X.  The title shows the measurement from the center and the average number of pins up.  These variables are also shown on the x-axis and by the dashed line, respectively. 
 ##### Figure Nos. 7-26 #
-<img src = "https://user-images.githubusercontent.com/1431998/72767966-f4cda200-3bc3-11ea-90e4-f3ffad5da0eb.png" width = "500px" align="left>
-<img src = "https://user-images.githubusercontent.com/1431998/72767967-f4cda200-3bc3-11ea-90bb-08535f21c7f5.png" width = "500px" align="right>
+<img src = "https://user-images.githubusercontent.com/1431998/72767966-f4cda200-3bc3-11ea-90e4-f3ffad5da0eb.png" width = "500px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767967-f4cda200-3bc3-11ea-90bb-08535f21c7f5.png" width = "500px" align="right">
 ![PinUpatXHist3](https://user-images.githubusercontent.com/1431998/72767968-f4cda200-3bc3-11ea-9f12-e448b5aafa61.png)
 ![PinUpatXHist4](https://user-images.githubusercontent.com/1431998/72767969-f4cda200-3bc3-11ea-87d9-a7a4f865689c.png)
 ![PinUpatXHist5](https://user-images.githubusercontent.com/1431998/72767970-f4cda200-3bc3-11ea-83d1-fb282ab69cff.png)
