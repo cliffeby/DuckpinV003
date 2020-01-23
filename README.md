@@ -122,7 +122,7 @@ Figures 27 and 28 show the effect of speed on the number of pins remaining. The 
 ![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
 
 A second approach is shown in Figure 29.  It shows the speed and location of all rolls that are strikes.  It appears that there is a benefit to faster speed but that some well off-center slow balls have a better strike chance. 
-##### Figure No. 29 # ![StrikeSpeed](https://user-images.githubusercontent.com/1431998/72767991-f6976580-3bc3-11ea-8ac6-7b065b12289b.png)
+##### Figure No. 29 # ![StrikeSpeed1](https://user-images.githubusercontent.com/1431998/73009866-49009e00-3ddf-11ea-9123-18295047e02d.png)
 
 ##### Effect of approach angle/spin #
 Hook bowling is the technique used by almost every professional 10-pin bowler. Using the hook allows you much more control over where the ball strikes the pins and where the pins are hit to as a result. In 10-pins the ball is big enough to contact the #1-#3 or #1-#2 pins simultaneously if hooked.  In duckpins, simultaneous contact is impossible.  It is also believed that the angle offers a better chance of direct contact with the #5 pin.  Finally, the spin is believed to impart rotational energy on the pins.  Some even believe that a backwards spinning ball on a well-oiled lane is best. 
