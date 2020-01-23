@@ -89,31 +89,26 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "410px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png" width = "410px" align="right">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "410px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png" width = "410px" align="left">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png" width = "410px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png" width = "410px" align="left">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png" width = "410px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png" width = "410px" align="left">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="left">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "410px" align="right">
-
-
-
-
 
 #### _Effect of speed_ #
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
@@ -149,7 +144,7 @@ The distribution of ball angles is shown in Figure 31.  It likely reflects the p
 #### Ball location, deviation and speed for typical ending pin configurations #
 The remaining figures are not analyzed but show the most common pin configurations in two Appendices.
 Each Figure contains the ball location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in that order. 
-Appendix 1 contains the most common outcomes and Appendix two shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.
+Appendix 1 contains the most common outcomes and Appendix two shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.  Note that often ball speed is slow.
 
 ### _Appendix 1 - Most Common Outcomes for 10 Pins_ #
 ![Figure_1](https://user-images.githubusercontent.com/1431998/73009876-49993480-3ddf-11ea-8ff2-029437100fce.png)
@@ -176,7 +171,7 @@ Appendix 1 contains the most common outcomes and Appendix two shows some least c
 
 
 
-### _Appendix 21 - Bad Beats for 10 Pins_ #
+### _Appendix 2 - Bad Beats for 10 Pins_ #
 ![Figure_1B](https://user-images.githubusercontent.com/1431998/73009878-49993480-3ddf-11ea-8526-5246b917aa00.png)
 ![Figure_2B](https://user-images.githubusercontent.com/1431998/73009880-4a31cb00-3ddf-11ea-85eb-35c43cc84cf3.png)
 ![Figure_3B](https://user-images.githubusercontent.com/1431998/73009882-4a31cb00-3ddf-11ea-959c-4f62da2ba899.png)
