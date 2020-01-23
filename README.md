@@ -105,8 +105,6 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767984-f5fecf00-3bc3-11ea-8458-8cb4efb0fad5.png" width = "410px" align="right">
-
 <img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "410px" align="right">
 
 <img src = "" width = "410px" align="right">
@@ -117,9 +115,19 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
   
 Figures 27 and 28 show the effect of speed on the number of pins remaining. The average speed and standard deviation bars are plotted for each ending state.  For all balls, Figure 27 shows that speed may have some benefit for strikes through four pins up.  When above average speed is the control variable, The already small effect is minimized.  A difference in speed of 161 to 148 - nine percent or about one percent per pin.
+##### Figure No. 27 #
+![speed](https://user-images.githubusercontent.com/1431998/72767988-f5fecf00-3bc3-11ea-8dbb-09dbb61cd66c.png)
+![Speed1](https://user-images.githubusercontent.com/1431998/72767989-f6976580-3bc3-11ea-976b-315097a6445a.png)
+
+![StrikeSpeed](https://user-images.githubusercontent.com/1431998/72767991-f6976580-3bc3-11ea-8ac6-7b065b12289b.png)
+
+##### Figure No. 28 #
+![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
 
 A second approach is shown in Figure 29.  It shows the speed and location of all rolls that are strikes.  It appears that there is a benefit to faster speed but that some well off-center slow balls have a better strike chance. 
-Effect of approach angle/spin
+##### Figure No. 29 # ![StrikeSpeed](https://user-images.githubusercontent.com/1431998/72767991-f6976580-3bc3-11ea-8ac6-7b065b12289b.png)
+
+##### Effect of approach angle/spin #
 Hook bowling is the technique used by almost every professional 10-pin bowler. Using the hook allows you much more control over where the ball strikes the pins and where the pins are hit to as a result. In 10-pins the ball is big enough to contact the #1-#3 or #1-#2 pins simultaneously if hooked.  In duckpins, simultaneous contact is impossible.  It is also believed that the angle offers a better chance of direct contact with the #5 pin.  Finally, the spin is believed to impart rotational energy on the pins.  Some even believe that a backwards spinning ball on a well-oiled lane is best. 
 <img src= "https://user-images.githubusercontent.com/1431998/72758770-baeba400-3ba1-11ea-8d79-388a09c3b466.png" width = "430px" align = "center">
 By comparing xy pairs, I was able to detect the angle of attack.  The Raspberry Pi camera is not capable of the hi-res recording needed to determine spin.  Left- vs right-handed throws are not distinguished so the best measure of angle is the absolute value of the calculated angle.
@@ -136,10 +144,7 @@ Each Figure contains the ball location where its size is a standard deviation, a
 
 ![PinUpHistforBallatX10](https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png)
 
-![speed](https://user-images.githubusercontent.com/1431998/72767988-f5fecf00-3bc3-11ea-8dbb-09dbb61cd66c.png)
-![Speed1](https://user-images.githubusercontent.com/1431998/72767989-f6976580-3bc3-11ea-976b-315097a6445a.png)
-![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
-![StrikeSpeed](https://user-images.githubusercontent.com/1431998/72767991-f6976580-3bc3-11ea-8ac6-7b065b12289b.png)
+
 ![ThetaScatter](https://user-images.githubusercontent.com/1431998/72767992-f6976580-3bc3-11ea-9380-f34b1ffd9026.png)
 ![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
 
