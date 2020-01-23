@@ -87,7 +87,11 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png" width = "410px" align="right">
 
+
+
 <img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "410px" align="right">
+
+<img src = "https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png" width = "410px" align="right">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "410px" align="right">
 
@@ -107,7 +111,7 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "410px" align="right">
 
-<img src = "" width = "410px" align="right">
+
 
 
 
@@ -125,7 +129,7 @@ A second approach is shown in Figure 29.  It shows the speed and location of all
 ##### Figure No. 29 # 
 ![StrikeSpeed1](https://user-images.githubusercontent.com/1431998/73009866-49009e00-3ddf-11ea-9123-18295047e02d.png)
 
-##### Effect of approach angle/spin #
+#### Effect of approach angle/spin #
 Hook bowling is the technique used by almost every professional 10-pin bowler. Using the hook allows you much more control over where the ball strikes the pins and where the pins are hit to as a result. In 10-pins the ball is big enough to contact the #1-#3 or #1-#2 pins simultaneously if hooked.  In duckpins, simultaneous contact is impossible.  It is also believed that the angle offers a better chance of direct contact with the #5 pin.  Finally, the spin is believed to impart rotational energy on the pins.  Some even believe that a backwards spinning ball on a well-oiled lane is best. 
 
 ##### Figure No. 29 # 
@@ -142,12 +146,12 @@ The distribution of ball angles is shown in Figure 31.  It likely reflects the p
 ##### Figure No. 31 # 
 ![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
 
-##### Ball location, deviation and speed for typical ending pin configurations #
+#### Ball location, deviation and speed for typical ending pin configurations #
 The remaining figures are not analyzed but show the most common pin configurations in two Appendices.
 Each Figure contains the ball location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in that order. 
 Appendix 1 contains the most common outcomes and Appendix two shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.
 
-### Appendix 1 - Most Common Outcomes for 10 Pins_ #
+### _Appendix 1 - Most Common Outcomes for 10 Pins_ #
 ![Figure_1](https://user-images.githubusercontent.com/1431998/73009876-49993480-3ddf-11ea-8ff2-029437100fce.png)
 
 ![Figure_2](https://user-images.githubusercontent.com/1431998/73009879-49993480-3ddf-11ea-9a55-814a299258c6.png)
@@ -172,7 +176,7 @@ Appendix 1 contains the most common outcomes and Appendix two shows some least c
 
 
 
-### Appendix 21 - Bad Beats for 10 Pins_ #
+### _Appendix 21 - Bad Beats for 10 Pins_ #
 ![Figure_1B](https://user-images.githubusercontent.com/1431998/73009878-49993480-3ddf-11ea-8526-5246b917aa00.png)
 ![Figure_2B](https://user-images.githubusercontent.com/1431998/73009880-4a31cb00-3ddf-11ea-85eb-35c43cc84cf3.png)
 ![Figure_3B](https://user-images.githubusercontent.com/1431998/73009882-4a31cb00-3ddf-11ea-959c-4f62da2ba899.png)
@@ -191,7 +195,7 @@ test
 
 ![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
 
-![PinUpHistforBallatX10](https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png)
+
 ![PerfectStrike](https://user-images.githubusercontent.com/1431998/72768031-f8f9bf80-3bc3-11ea-9c28-b5cf907b08fd.png)
 ![xHistGT117](https://user-images.githubusercontent.com/1431998/72768001-f72ffc00-3bc3-11ea-96d4-2e0bd2d01297.png)
 
