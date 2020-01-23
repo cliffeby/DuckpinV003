@@ -54,19 +54,44 @@ Figure 1 and 2 show that rolls with above average speed (shown by the dashed lin
 
 Figure 3 and 4 are histograms of ball counts by location.  The left-side bias is notable and likely due to the left sloping lane. The predominance of right-handed bowlers could be a factor as well. Figure 3 shows all rolls in blue; Figure 4 is rolls at above average speed.  
 
- ![X1]("https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png")
- 
+##### Figure No. 3 #
+![XScatter](https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png)
+
+##### Figure No. 4 #
+![XFastScatter](https://user-images.githubusercontent.com/1431998/72768000-f72ffc00-3bc3-11ea-8f95-c9e9881e3550.png) 
+
 Figure 5 is the distribution of results for all rolls.  It is the number of pins that remain up after the first roll.  Since gutter ball are not recognized, the maximum number of up pins is nine.  Note that seven pins up is the most frequent roll (mode) and that it is just as hard to knock down only four pins as it is to get all ten. 
+##### Figure No. 5 #
+![PisUpHist](https://user-images.githubusercontent.com/1431998/72767987-f5fecf00-3bc3-11ea-9ca1-02b5338e9ff4.png)
 
-Figure 6 shows the relationship between v1 and v2.  The data show an unlikely slowdown of rolls at velocities of 75 xps.  This is likely due to the distance from the camera to the ball on faster rolls. 
-
+Figure 6 shows the relationship between v1 and v2.  The data show an unlikely slowdown of rolls at velocities of 75 xps.  This is likely due to the distance from the camera to the ball on faster rolls.
+##### Figure No. 6 #
+![V1vsV2Scatter](https://user-images.githubusercontent.com/1431998/72767994-f6976580-3bc3-11ea-8b78-9cd7114289bb.png)
  
+#### _Ball location and expected result_ #
+Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball that appears to be perfectly located in the pocket leaves two or three pins and sometimes difficult splits.  Also, it’s not unexpected to see a “backdoor” strike where the ball misses the headpin, but pin action delivers a strike.  The following 20 graphs (Figures 7-26) show the distribution of up pins after a roll at X.  The title shows the measurement from the center and the average number of pins up.  These variables are also shown on the x-axis and by the dashed line, respectively. 
+##### Figure Nos. 7-26 #
+![PinUpatXHist1](https://user-images.githubusercontent.com/1431998/72767966-f4cda200-3bc3-11ea-90e4-f3ffad5da0eb.png)
+![PinUpatXHist2](https://user-images.githubusercontent.com/1431998/72767967-f4cda200-3bc3-11ea-90bb-08535f21c7f5.png)
+![PinUpatXHist3](https://user-images.githubusercontent.com/1431998/72767968-f4cda200-3bc3-11ea-9f12-e448b5aafa61.png)
+![PinUpatXHist4](https://user-images.githubusercontent.com/1431998/72767969-f4cda200-3bc3-11ea-87d9-a7a4f865689c.png)
+![PinUpatXHist5](https://user-images.githubusercontent.com/1431998/72767970-f4cda200-3bc3-11ea-83d1-fb282ab69cff.png)
+![PinUpatXHist6](https://user-images.githubusercontent.com/1431998/72767972-f5663880-3bc3-11ea-9d0e-d115739fe6eb.png)
+![PinUpatXHist7](https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png)
+![PinUpatXHist8](https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png)
+![PinUpatXHist9](https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png)
+![PinUpatXHist10](https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png)
+![PinUpatXHist11](https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png)
+![PinUpatXHist12](https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png)
+![PinUpatXHist13](https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png)
+![PinUpatXHist14](https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png)
+![PinUpatXHist15](https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png)
+![PinUpatXHist16](https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png)
+![PinUpatXHist17](https://user-images.githubusercontent.com/1431998/72767983-f5fecf00-3bc3-11ea-8e38-7e9cf16febb9.png)
+![PinUpatXHist18](https://user-images.githubusercontent.com/1431998/72767984-f5fecf00-3bc3-11ea-8458-8cb4efb0fad5.png)
+![PinUpatXHist19](https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png)  
 
-Ball location and expected result
-Duckpin bowling is unique with its often-unexpected results.  Often a ball that appears to be perfectly located in the pocket leaves two or three pins and sometimes difficult splits.  Also, it’s not unexpected to see a “backdoor” strike where the ball misses the headpin, but pin action delivers a strike.  The following 20 graphs (Figures 7-26) show the distribution of up pins after a roll at X.  The title shows the measurement from the center and the average number of pins up.  These variables are also shown on the x-axis and by the dashed line, respectively. 
-  
-
-Effect of speed
+#### _Effect of speed_ #
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
   
 Figures 27 and 28 show the effect of speed on the number of pins remaining. The average speed and standard deviation bars are plotted for each ending state.  For all balls, Figure 27 shows that speed may have some benefit for strikes through four pins up.  When above average speed is the control variable, The already small effect is minimized.  A difference in speed of 161 to 148 - nine percent or about one percent per pin.
@@ -86,38 +111,20 @@ Ball location, deviation and speed for typical ending pin configurations.
 The remaining Figures are not analyzed but show the most common pin configurations.
 Each Figure contains the ball location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in that order. 
 
-![PinUpatXHist1](https://user-images.githubusercontent.com/1431998/72767966-f4cda200-3bc3-11ea-90e4-f3ffad5da0eb.png)
-![PinUpatXHist2](https://user-images.githubusercontent.com/1431998/72767967-f4cda200-3bc3-11ea-90bb-08535f21c7f5.png)
-![PinUpatXHist3](https://user-images.githubusercontent.com/1431998/72767968-f4cda200-3bc3-11ea-9f12-e448b5aafa61.png)
-![PinUpatXHist4](https://user-images.githubusercontent.com/1431998/72767969-f4cda200-3bc3-11ea-87d9-a7a4f865689c.png)
-![PinUpatXHist5](https://user-images.githubusercontent.com/1431998/72767970-f4cda200-3bc3-11ea-83d1-fb282ab69cff.png)
-![PinUpatXHist6](https://user-images.githubusercontent.com/1431998/72767972-f5663880-3bc3-11ea-9d0e-d115739fe6eb.png)
-![PinUpatXHist7](https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png)
-![PinUpatXHist8](https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png)
-![PinUpatXHist9](https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png)
-![PinUpatXHist10](https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png)
-![PinUpatXHist11](https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png)
-![PinUpatXHist12](https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png)
-![PinUpatXHist13](https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png)
-![PinUpatXHist14](https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png)
-![PinUpatXHist15](https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png)
-![PinUpatXHist16](https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png)
-![PinUpatXHist17](https://user-images.githubusercontent.com/1431998/72767983-f5fecf00-3bc3-11ea-8e38-7e9cf16febb9.png)
-![PinUpatXHist18](https://user-images.githubusercontent.com/1431998/72767984-f5fecf00-3bc3-11ea-8458-8cb4efb0fad5.png)
-![PinUpatXHist19](https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png)
+
 ![PinUpHistforBallatX10](https://user-images.githubusercontent.com/1431998/72767986-f5fecf00-3bc3-11ea-8a28-ae9933b54662.png)
-![PisUpHist](https://user-images.githubusercontent.com/1431998/72767987-f5fecf00-3bc3-11ea-9ca1-02b5338e9ff4.png)
+
 ![speed](https://user-images.githubusercontent.com/1431998/72767988-f5fecf00-3bc3-11ea-8dbb-09dbb61cd66c.png)
 ![Speed1](https://user-images.githubusercontent.com/1431998/72767989-f6976580-3bc3-11ea-976b-315097a6445a.png)
 ![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
 ![StrikeSpeed](https://user-images.githubusercontent.com/1431998/72767991-f6976580-3bc3-11ea-8ac6-7b065b12289b.png)
 ![ThetaScatter](https://user-images.githubusercontent.com/1431998/72767992-f6976580-3bc3-11ea-9380-f34b1ffd9026.png)
 ![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
-![V1vsV2Scatter](https://user-images.githubusercontent.com/1431998/72767994-f6976580-3bc3-11ea-8b78-9cd7114289bb.png)
 
-![XFastScatter](https://user-images.githubusercontent.com/1431998/72768000-f72ffc00-3bc3-11ea-8f95-c9e9881e3550.png)
+
+
 ![xHistGT117](https://user-images.githubusercontent.com/1431998/72768001-f72ffc00-3bc3-11ea-96d4-2e0bd2d01297.png)
-![XScatter](https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png)
+
 ![AllBalls](https://user-images.githubusercontent.com/1431998/72768004-f72ffc00-3bc3-11ea-99e7-40565692e45e.png)
 ![Angle](https://user-images.githubusercontent.com/1431998/72768005-f72ffc00-3bc3-11ea-9d6a-dc84eb548fb3.png)
 ![AngleFast](https://user-images.githubusercontent.com/1431998/72768006-f72ffc00-3bc3-11ea-9d2b-a7608bbe7884.png)
