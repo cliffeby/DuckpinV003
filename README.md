@@ -25,9 +25,9 @@ Phase I explains how nightly postprocessing of video data is analyzed and stored
 
 The number of xy pairs depends on the speed of the roll.  These data are shaped and establish the following data elements:
 -	Location of the ball -x
-  +	A duckpin lane is 41” wide.  Ranges for raw x-pixel locations were 60-1150.  Thus, one pixel is a little less than 1/25 on an inch.  The x-location of the second ball image was used – typically about two feet in front of the headpin.  Data were normalized to inches left (-) and right (+) of the lane’s center. 
+  ..-	A duckpin lane is 41” wide.  Ranges for raw x-pixel locations were 60-1150.  Thus, one pixel is a little less than 1/25 on an inch.  The x-location of the second ball image was used – typically about two feet in front of the headpin.  Data were normalized to inches left (-) and right (+) of the lane’s center. 
 -	Speed of the ball -v
-  +	Calculation of xy pair differences established a relative estimate of speed.  V1s (xy2-xy1) were used for most analysis as faster balls often on had two xy pairs.  No attempt was made to translate the nominal values to mph or fps.
+  ..-	Calculation of xy pair differences established a relative estimate of speed.  V1s (xy2-xy1) were used for most analysis as faster balls often on had two xy pairs.  No attempt was made to translate the nominal values to mph or fps.
 -	Angle of the ball -theta
 o	 Calculation of xy pair differences established an estimate of the ball angle as it approached the pins.  Theta1s (xy2-xy1) were used for analysis.
 -	Up
