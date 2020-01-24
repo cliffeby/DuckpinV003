@@ -74,25 +74,25 @@ Figure No. 6 shows the relationship between v1 and v2.  The data show an unlikel
 #### _Ball location and expected result_ #
 Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball that appears to be perfectly located in the pocket leaves two or three pins and sometimes difficult splits.  Also, it’s not unexpected to see a “backdoor” strike where the ball misses the headpin, but pin action delivers a strike.  The following 20 graphs (Figures 7-26) show the distribution of up pins after a roll at X.  The title shows the measurement from the center and the average number of pins up.  These variables are also shown on the x-axis and by the dashed line, respectively. 
 ##### Figure Nos. 7-26 #
-<img src = "https://user-images.githubusercontent.com/1431998/72767966-f4cda200-3bc3-11ea-90e4-f3ffad5da0eb.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767966-f4cda200-3bc3-11ea-90e4-f3ffad5da0eb.png" width = "415px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767967-f4cda200-3bc3-11ea-90bb-08535f21c7f5.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767967-f4cda200-3bc3-11ea-90bb-08535f21c7f5.png" width = "415px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767968-f4cda200-3bc3-11ea-9f12-e448b5aafa61.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767968-f4cda200-3bc3-11ea-9f12-e448b5aafa61.png" width = "415px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767969-f4cda200-3bc3-11ea-87d9-a7a4f865689c.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767969-f4cda200-3bc3-11ea-87d9-a7a4f865689c.png" width = "415px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767970-f4cda200-3bc3-11ea-83d1-fb282ab69cff.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767970-f4cda200-3bc3-11ea-83d1-fb282ab69cff.png" width = "415px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767972-f5663880-3bc3-11ea-9d0e-d115739fe6eb.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767972-f5663880-3bc3-11ea-9d0e-d115739fe6eb.png" width = "415px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png" width = "415px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png" width = "415px" align="right">
 
 
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "415px" align="left">
 
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "415px" align="right">
@@ -105,13 +105,13 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png" width = "415px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png" width = "415px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "415px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "415px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "415px" align="right">
 
 #### _Effect of speed_ #
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
