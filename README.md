@@ -136,11 +136,11 @@ Hook bowling is the technique used by almost every professional 10-pin bowler. U
 ##### Figure No. 30 # 
 <img src= "https://user-images.githubusercontent.com/1431998/72758770-baeba400-3ba1-11ea-8d79-388a09c3b466.png" width = "430px" align = "center">
 By comparing xy pairs, I was able to detect the angle of attack.  The Raspberry Pi camera is not capable of the hi-res recording needed to determine spin.  Also, left- vs right-handed throws are not distinguished so the best measure of angle is the absolute value of the calculated angle.
-Figure No. 30 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
+Figure No. 31 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
 
 ##### Figure No. 31 # 
 ![AngleFastAbs](https://user-images.githubusercontent.com/1431998/72768007-f72ffc00-3bc3-11ea-9bc5-e7d857860d71.png)
-The distribution of ball angles is shown in Figure No. 31.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
+The distribution of ball angles is shown in Figure No. 32.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
 
 ##### Figure No. 32 # 
 ![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
