@@ -90,10 +90,7 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png" width = "410px" align="right">
 
-
-
 <img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "410px" align="left">
-
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "410px" align="right">
 
@@ -112,18 +109,20 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 <img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="left">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "410px" align="right">
+### . #
 
 #### _Effect of speed_ #
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
   
 Figures No. 27 and 28 show the effect of speed on the number of pins remaining. The average speed and standard deviation bars are plotted for each ending state.  For all balls, Figure No. 27 shows that speed may have some benefit for strikes through four pins up.  When above average speed is the control variable, the already small effect is minimized.  A difference in speed of 161 to 148 - nine percent or about one percent per pin.
+
 ##### Figure No. 27 #
 ![speed](https://user-images.githubusercontent.com/1431998/72767988-f5fecf00-3bc3-11ea-8dbb-09dbb61cd66c.png)
 
 ##### Figure No. 28 #
 ![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
-
 A second approach is shown in Figure No. 29.  It shows the speed and location of all rolls that are strikes.  It appears that there is a benefit to faster speed but that some well off-center slow balls have a better strike chance. 
+
 ##### Figure No. 29 # 
 ![StrikeSpeed1](https://user-images.githubusercontent.com/1431998/73009866-49009e00-3ddf-11ea-9123-18295047e02d.png)
 
@@ -132,15 +131,13 @@ Hook bowling is the technique used by almost every professional 10-pin bowler. U
 
 ##### Figure No. 29 # 
 <img src= "https://user-images.githubusercontent.com/1431998/72758770-baeba400-3ba1-11ea-8d79-388a09c3b466.png" width = "430px" align = "center">
-
 By comparing xy pairs, I was able to detect the angle of attack.  The Raspberry Pi camera is not capable of the hi-res recording needed to determine spin.  Also, left- vs right-handed throws are not distinguished so the best measure of angle is the absolute value of the calculated angle.
 Figure 30 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
 
 ##### Figure No. 30 # 
 ![AngleFastAbs](https://user-images.githubusercontent.com/1431998/72768007-f72ffc00-3bc3-11ea-9bc5-e7d857860d71.png)
-
- 
 The distribution of ball angles is shown in Figure No. 31.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
+
 ##### Figure No. 31 # 
 ![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
 
