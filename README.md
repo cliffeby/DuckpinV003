@@ -116,14 +116,14 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 #### _Effect of speed_ #
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
   
-Figures 27 and 28 show the effect of speed on the number of pins remaining. The average speed and standard deviation bars are plotted for each ending state.  For all balls, Figure 27 shows that speed may have some benefit for strikes through four pins up.  When above average speed is the control variable, The already small effect is minimized.  A difference in speed of 161 to 148 - nine percent or about one percent per pin.
+Figures No. 27 and 28 show the effect of speed on the number of pins remaining. The average speed and standard deviation bars are plotted for each ending state.  For all balls, Figure No. 27 shows that speed may have some benefit for strikes through four pins up.  When above average speed is the control variable, the already small effect is minimized.  A difference in speed of 161 to 148 - nine percent or about one percent per pin.
 ##### Figure No. 27 #
 ![speed](https://user-images.githubusercontent.com/1431998/72767988-f5fecf00-3bc3-11ea-8dbb-09dbb61cd66c.png)
 
 ##### Figure No. 28 #
 ![SpeedFast](https://user-images.githubusercontent.com/1431998/72767990-f6976580-3bc3-11ea-814e-bb2b20aee167.png)
 
-A second approach is shown in Figure 29.  It shows the speed and location of all rolls that are strikes.  It appears that there is a benefit to faster speed but that some well off-center slow balls have a better strike chance. 
+A second approach is shown in Figure No. 29.  It shows the speed and location of all rolls that are strikes.  It appears that there is a benefit to faster speed but that some well off-center slow balls have a better strike chance. 
 ##### Figure No. 29 # 
 ![StrikeSpeed1](https://user-images.githubusercontent.com/1431998/73009866-49009e00-3ddf-11ea-9123-18295047e02d.png)
 
@@ -140,14 +140,14 @@ Figure 30 shows no benefit of angle/spin for above average speed rolls.  Data fo
 ![AngleFastAbs](https://user-images.githubusercontent.com/1431998/72768007-f72ffc00-3bc3-11ea-9bc5-e7d857860d71.png)
 
  
-The distribution of ball angles is shown in Figure 31.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
+The distribution of ball angles is shown in Figure No. 31.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
 ##### Figure No. 31 # 
 ![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
 
 #### Ball location, deviation and speed for typical ending pin configurations #
 The remaining figures are not analyzed but show the most common pin configurations in two Appendices.
 Each Figure contains the ball track and location where its size is a standard deviation, a table of stats, and a scatter diagram of all throws.   The population is the total number of rolls for that configuration and is presented in rank order. 
-Appendix 1 contains the most common outcomes and Appendix 2 shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had thme all.  Note that often ball speed is slow.
+Appendix 1 contains the most common outcomes and Appendix 2 shows some least common outcomes.  I refer to these as Bad Beats and Splits.  While there is only a one in 10,000 chance of these outcomes, it seems that I've had them all.  Note that often ball speed is slow.
 
 ### _Appendix 1 - Most Common Outcomes for 10 Pins_ #
 ![Figure_1](https://user-images.githubusercontent.com/1431998/73009876-49993480-3ddf-11ea-8ff2-029437100fce.png)
