@@ -63,11 +63,11 @@ Figures Nos. 3 and 4 are histograms of ball counts by location.  The left-side b
 ##### Figure No. 4 #
 ![XFastScatter](https://user-images.githubusercontent.com/1431998/73036691-571fe000-3e1a-11ea-8aff-bc3b9ab158fd.png) 
 
-Figure 5 is the distribution of results for all rolls.  It is the number of pins that remain up after the first roll.  Since gutter ball are not recognized, the maximum number of up pins is nine.  Note that nine pins up is the most frequent roll (mode) and that ten down is the most difficult, but that the relation between 0 and nine is not linear. 
+Figure No. 5 is the distribution of results for all rolls.  It is the number of pins that remain up after the first roll.  Since gutter ball are not recognized, the maximum number of up pins is nine.  Note that nine pins up is the most frequent roll (mode) and that ten down is the most difficult, but that the relation between 0 and nine is not linear. 
 ##### Figure No. 5 #
 ![PisUpHist](https://user-images.githubusercontent.com/1431998/72767987-f5fecf00-3bc3-11ea-9ca1-02b5338e9ff4.png)
 
-Figure 6 shows the relationship between v1 and v2.  The data show an unlikely slowdown of rolls at velocities of 75 xps.  This is likely due to the distance from the camera to the ball on faster rolls.
+Figure No. 6 shows the relationship between v1 and v2.  The data show an unlikely slowdown of rolls at velocities of 75 xps.  This is likely due to parallax as the distance from the camera to the ball is greater on faster rolls.
 ##### Figure No. 6 #
 ![V1vsV2Scatter](https://user-images.githubusercontent.com/1431998/72767994-f6976580-3bc3-11ea-8b78-9cd7114289bb.png)
  
@@ -95,15 +95,15 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 <img src = "https://user-images.githubusercontent.com/1431998/72767975-f5663880-3bc3-11ea-843e-9b6ec04332bc.png" width = "410px" align="left">
 
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "415px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png" width = "415px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png" width = "415px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png" width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png" width = "415x" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png" width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767980-f5663880-3bc3-11ea-885a-f261933c6b92.png" width = "415px" align="right">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png" width = "410px" align="left">
 
