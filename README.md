@@ -133,16 +133,16 @@ A second approach is shown in Figure No. 29.  It shows the speed and location of
 #### Effect of approach angle/spin #
 Hook bowling is the technique used by almost every professional 10-pin bowler. Using the hook allows you much more control over where the ball strikes the pins and where the pins are hit to as a result. In 10-pins the ball is big enough to contact the #1-#3 or #1-#2 pins simultaneously if hooked.  In duckpins, simultaneous contact is impossible.  It is also believed that the angle offers a better chance of direct contact with the #5 pin.  Finally, the spin is believed to impart rotational energy on the pins.  Some even believe that a backwards spinning ball on a well-oiled lane is best. 
 
-##### Figure No. 29 # 
+##### Figure No. 30 # 
 <img src= "https://user-images.githubusercontent.com/1431998/72758770-baeba400-3ba1-11ea-8d79-388a09c3b466.png" width = "430px" align = "center">
 By comparing xy pairs, I was able to detect the angle of attack.  The Raspberry Pi camera is not capable of the hi-res recording needed to determine spin.  Also, left- vs right-handed throws are not distinguished so the best measure of angle is the absolute value of the calculated angle.
-Figure 30 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
+Figure No. 30 shows no benefit of angle/spin for above average speed rolls.  Data for all rolls as well as left- and right-angled approaches were similar.
 
-##### Figure No. 30 # 
+##### Figure No. 31 # 
 ![AngleFastAbs](https://user-images.githubusercontent.com/1431998/72768007-f72ffc00-3bc3-11ea-9bc5-e7d857860d71.png)
 The distribution of ball angles is shown in Figure No. 31.  It likely reflects the predominance of right-handed bowlers and the left leaning Lane 4.
 
-##### Figure No. 31 # 
+##### Figure No. 32 # 
 ![AngleHist](https://user-images.githubusercontent.com/1431998/72768008-f72ffc00-3bc3-11ea-8c5e-478600f52349.png)
 
 #### Ball location, deviation and speed for typical ending pin configurations #
@@ -189,16 +189,6 @@ Appendix 1 contains the most common outcomes and Appendix 2 shows some least com
 ![Figure_11B](https://user-images.githubusercontent.com/1431998/73009839-47cf7100-3ddf-11ea-8787-b9ba0532a1ce.png)
 
 
-
-test
-
-![v1tov2](https://user-images.githubusercontent.com/1431998/72767993-f6976580-3bc3-11ea-9e22-fc109d2cf9ee.png)
-
-
-![PerfectStrike](https://user-images.githubusercontent.com/1431998/72768031-f8f9bf80-3bc3-11ea-9c28-b5cf907b08fd.png)
-![xHistGT117](https://user-images.githubusercontent.com/1431998/72768001-f72ffc00-3bc3-11ea-96d4-2e0bd2d01297.png)
-
-![AllBalls](https://user-images.githubusercontent.com/1431998/72768004-f72ffc00-3bc3-11ea-99e7-40565692e45e.png)
 
 
 
