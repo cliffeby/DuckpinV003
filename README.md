@@ -11,13 +11,13 @@ The limitations of the data are significant.  Some obvious data concerns are:
 -	Bowlers are left-handed, right-handed, and two-handed.  The data does not identify.
 -	Some bowlers use bumpers and these rolls are not identified.
 -	The video quality of a Raspberry Pi depends on resolution.  I used a 1440 x 912-pixel video.  Framerate varied based on Raspberry Pi processor activity.  On average, three images of the ball are captured as it moves to the pins and the moving ball is granular.  Graphics software computes the centroid of the ball which is not always precise.
-- Only three seconds of video is captured after a pin is knocked down.  the effect of some pinning pins is not captured.
+- Only three seconds of video is captured after a pin is knocked down.  The effect of some pinning pins is not captured.
 -	Lane 4 at Congressional CC slopes left.  This is observed in the data and by rolling a ball slowly down the lane.
 
 ### _Summary_
-Machine learning, AI, and cyber metrics may work in Moneyball, but duckpin bowling has never been about money.  With over 8000 observations, it appears there are no secrets in the data.  
+Machine learning, AI, and cyber metrics may work in Moneyball, but duckpin bowling has never been about money.  With over 10,000 observations, it appears there are no secrets in the data.  
 Data show that ball location is the predominate variable and any method that allows a repeatable roll will achieve results. Forget about the benefits of speed or spin. Focus on a comfortable motion that is consistent.
-Captured Data 
+### _Captured Data_ 
 Phase I explains how nightly postprocessing of video data is analyzed and stored in an Azure table. The json data contain xy pairs of the ball locations that produce the endingPinCount. The format of those records is:
 ~~~ Python
 {'PartitionKey': 'Lane 4', 'RowKey': '20180927643118', 'beginingPinCount': 1023, 'endingPinCount': 0, 'x0': '634', 'y0': '829', 'x1': '637', 'y1': '702', >'x2': '641', 'y2': '596', 'x3': '642', 'y3': '510', 'x4': '576', 'y4': '306'}
@@ -26,7 +26,7 @@ Phase I explains how nightly postprocessing of video data is analyzed and stored
 The number of xy pairs depends on the speed of the roll.  These data are shaped and establish the following data elements:
 -	Location of the ball -x
 o	A duckpin lane is 41” wide.  Ranges for raw x-pixel locations were 60-1150.  Thus, one pixel is a little less than 1/25 on an inch.  The x-location of the second ball image was used – typically about two feet in front of the headpin.  Data were normalized to inches left (-) and right (+) of the lane’s center. 
--	Speed of the ball -v
++	Speed of the ball -v
 o	Calculation of xy pair differences established a relative estimate of speed.  V1s (xy2-xy1) were used for most analysis as faster balls often on had two xy pairs.  No attempt was made to translate the nominal values to mph or fps.
 -	Angle of the ball -theta
 o	 Calculation of xy pair differences established an estimate of the ball angle as it approached the pins.  Theta1s (xy2-xy1) were used for analysis.
