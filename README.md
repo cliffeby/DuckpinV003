@@ -86,7 +86,7 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767972-f5663880-3bc3-11ea-9d0e-d115739fe6eb.png" width = "50%" max-width = "410px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png" width = "50%" max-width = "410px"align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767973-f5663880-3bc3-11ea-95b7-29cdecfa4920.png" width = "50%" max-width = "410px" align="left">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767974-f5663880-3bc3-11ea-87d0-3e01a2df39b2.png" width = "50%" max-width = "410px" align="right">
 
@@ -94,9 +94,9 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767976-f5663880-3bc3-11ea-9355-f289899a54e5.png" width = "50%" max-width = "410px" align="right">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png" wwidth = "50%" max-width = "410px" align="left">
+<img src = "https://user-images.githubusercontent.com/1431998/72767977-f5663880-3bc3-11ea-9242-ab3efeeea547.png" width = "50%" max-width = "410px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png" wwidth = "50%" max-width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767978-f5663880-3bc3-11ea-861d-98f8df4acf3b.png" width = "50%" max-width = "410px" align="right">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767979-f5663880-3bc3-11ea-8ffc-0db4f6ac7c12.png" width = "50%" max-width = "410px" align="left">
 
@@ -104,7 +104,7 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767981-f5fecf00-3bc3-11ea-91a1-228a3777cf20.png" width = "50%" max-width = "410px" align="left">
 
-<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" wwidth = "50%" max-width = "410px" align="right">
+<img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "50%" max-width = "410px" align="right">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "50%" max-width = "410px" align="left">
 
