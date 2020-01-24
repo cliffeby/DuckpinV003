@@ -109,7 +109,11 @@ Duckpin bowling is unique with its often-unexpected results.  Frequently, a ball
 <img src = "https://user-images.githubusercontent.com/1431998/72767982-f5fecf00-3bc3-11ea-9537-3c6b15637130.png" width = "410px" align="left">
 
 <img src = "https://user-images.githubusercontent.com/1431998/72767985-f5fecf00-3bc3-11ea-8eef-fe60ed42622a.png" width = "410px" align="right">
-### . #
+
+
+
+
+
 
 #### _Effect of speed_ #
 Can a duckpin roll be too fast?  While the higher speed departs more energy to the pins it hits, can the ball be traveling too fast to impart maximum results.  Do pins fall into the well or spin on the metal table more often at higher speeds? 
