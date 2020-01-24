@@ -27,7 +27,7 @@ The number of xy pairs depends on the speed of the roll.  These data are shaped 
 -	Location of the ball -x
     -	A duckpin lane is 41” wide.  Ranges for raw x-pixel locations were 60-1150.  Thus, one pixel is a little less than 1/25 on an inch.  The x-location of the second ball image was used – typically about two feet in front of the headpin.  Data were normalized to inches left (-) and right (+) of the lane’s center. 
 -	Speed of the ball -v
-    -	Calculation of xy pair differences established a relative estimate of speed.  V1s (xy2-xy1) were used for most analysis as faster balls often on had two xy pairs.  No attempt was made to translate the nominal values to mph or fps.
+    -	Calculation of xy pair differences established a relative estimate of speed.  V1s (xy2-xy1) were used for most analysis as faster balls often on had only two xy pairs.  No attempt was made to translate the nominal values to mph or fps.
 -	Angle of the ball -theta
     - Calculation of xy pair differences established an estimate of the ball angle as it approached the pins.  Theta1s (xy2-xy1) were used for analysis.
 -	Up
@@ -36,16 +36,17 @@ The number of xy pairs depends on the speed of the roll.  These data are shaped 
 ### _Data Analysis_ 
 Analyses are grouped into five categories for all rolls and rolls above average speed.  The later is an attempt to eliminate the effect that bumpers may have on the data:
 +	Distribution of all rolls by:
-+	Velocity and X-location
-+	X- location
-+	Pins up
-+	V1
- -	Ball location and expected result
- -	Effect of speed
- -	Effect of approach angle/spin
- -	Ball location, deviation and speed for typical ending pin configurations.
+    +	Velocity and X-location
+    +	X- location
+    +	Pins up
+    +	V1
+-	Ball location and expected result
+-	Effect of speed
+-	Effect of approach angle/spin
+-	Ball location, deviation and speed for typical ending pin configurations.
+
 #### _Roll Distribution_ #
-Figure 1 and 2 show that rolls with above average speed (shown by the dashed line) have a slightly better center concentration.  This is likely due to better bowlers tend to throw the ball faster.  Also, noted is the slower average v2 speed.  This is like due to faster rolls often do not capture three xy pairs and v2 was unknown.
+Figures No. 1 and 2 show that rolls with above average speed (shown by the dashed line) have a slightly better center concentration.  This is likely due to better bowlers tend to throw the ball faster.  Also, noted is the slower average v2 speed.  This is like due to faster rolls often do not capture three xy pairs and v2 of the faster ball was not recorded.
 
 ##### Figure No. 1 #
 ![V1vXScatter](https://user-images.githubusercontent.com/1431998/72767995-f6976580-3bc3-11ea-9813-5a7b9931cf79.png)
@@ -54,7 +55,7 @@ Figure 1 and 2 show that rolls with above average speed (shown by the dashed lin
 ![V2vXScatter](https://user-images.githubusercontent.com/1431998/72767997-f6976580-3bc3-11ea-9441-b326ed9fe004.png)
 
 
-Figure 3 and 4 are histograms of ball counts by location.  The left-side bias is notable and likely due to the left sloping lane. The predominance of right-handed bowlers could be a factor as well. Figure 3 shows all rolls in blue; Figure 4 is rolls at above average speed.  
+Figures Nos. 3 and 4 are histograms of ball counts by location.  The left-side bias is notable and likely due to the left sloping lane. The predominance of right-handed bowlers could be a factor as well. Figure 3 shows all rolls in blue; Figure 4 is rolls at above average speed.  
 
 ##### Figure No. 3 #
 ![XScatter](https://user-images.githubusercontent.com/1431998/72768003-f72ffc00-3bc3-11ea-9a22-96cbb5ad1932.png)
