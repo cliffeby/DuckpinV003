@@ -11,7 +11,7 @@ The limitations of the data are significant.  Some obvious data concerns are:
 -	Bowlers are left-handed, right-handed, and two-handed.  The data does not identify.
 -	Some bowlers use bumpers and these rolls are not identified.
 -	The video quality of a Raspberry Pi depends on resolution.  I used a 1440 x 912-pixel video.  Framerate varied based on Raspberry Pi processor activity.  On average, three images of the ball are captured as it moves to the pins and the moving ball is granular.  Graphics software computes the centroid of the ball which is not always precise.
-- Only three seconds of video is captured after a pin is knocked down.  The effect of some pinning pins is not captured.
+- Only three seconds of video is captured after a pin is knocked down.  The effect of some spinning pins is not captured.
 -	Lane 4 at Congressional CC slopes left.  This is observed in the data and by rolling a ball slowly down the lane.
 
 ### _Summary_
